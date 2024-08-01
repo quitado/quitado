@@ -32,3 +32,6 @@
 <img src="https://raw.githubusercontent.com/quitado/quitado/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+###
